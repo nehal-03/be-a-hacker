@@ -1,5 +1,6 @@
 ### Downloading Files Using **wget** :
 >wget https://assets.tryhackme.com/additional/linux-fundamentals/part3/myfile.txt 
+
 >scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt
 - SCP: Secure copy
 - IP address of the remote system: 192.168.1.30

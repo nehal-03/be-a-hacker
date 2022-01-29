@@ -13,7 +13,7 @@ Ubuntu machines come pre-packaged with python3. Python helpfully provides a ligh
 Python3's "HTTPServer" will serve the files in the directory that you run the command, but this can be changed by providing options that can be found in the manual pages. Simply, all we need to start the module is 
 >run python3 -m  http.server 
 
- A more advanced yet lightweight webserver. [Watch Dog](https://github.com/sc0tfree/updog)
+ [Watch Dog](https://github.com/sc0tfree/updog) : A more advanced yet lightweight webserver. 
  
  >> 28-01-2022
 

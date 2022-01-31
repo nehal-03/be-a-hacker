@@ -73,6 +73,27 @@ Rather than relying on the `&` operator, we can use `Ctrl + Z` on our keyboard t
 
 With our process backgrounded using either `Ctrl + Z` or the `&` operator, we can use fg to bring this back to focus like below, where we can see the `fg` command is being used to bring the background process back into use on the terminal, where the output of the script is now returned to us.
 
+# Maintaining Your System: Automation
+
+We're going to be talking about the cron process, but more specifically, how we can interact with it via the use of crontabs . Crontab is one of the processes that is started during boot, which is responsible for facilitating and managing cron jobs.
+
+A crontab is simply a special file with formatting that is recognised by the cron process to execute each line step-by-step. Crontabs require 6 specific values:
+
+Value	Description:
+```
+MIN	What minute to execute at
+HOUR	What hour to execute at
+DOM	What day of the month to execute at
+MON	What month of the year to execute at
+DOW	What day of the week to execute at
+CMD	The actual command that will be executed.
+
+0 *12 * * * cp -R /home/cmnatic/Documents /var/backups/
+```
+If we do not wish to provide a value for that specific field, i.e. we don't care what month, day, or year it is executed -- only that it is executed every 12 hours, we simply just place an asterisk `*`.
+
+Crontabs can be edited by using `crontab -e`, where you can select an editor (such as Nano) to edit your crontab.
+
 
 
 

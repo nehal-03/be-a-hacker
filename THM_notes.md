@@ -94,6 +94,12 @@ If we do not wish to provide a value for that specific field, i.e. we don't care
 
 Crontabs can be edited by using `crontab -e`, where you can select an editor (such as Nano) to edit your crontab.
 
+TryHackMe rooms that are dedicated to Linux tools or utilities:
+
+The find command - https://tryhackme.com/room/thefindcommand
+Bash Scripting - https://tryhackme.com/room/bashscripting
+Regular Expressions - https://tryhackme.com/room/catregex
+
 
 
 

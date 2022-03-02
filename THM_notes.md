@@ -18,6 +18,13 @@ using the command `searchsploit fuel cms` to search for exploits:
 `wget https://assets.tryhackme.com/additional/linux-fundamentals/part3/myfile.txt` 
 
 `scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt`
+- The IP address of the remote system : 192.168.1.30
+- User on the remote system	: ubuntu
+- Name of the file on the local system : important.txt
+- Name that we wish to store the file as on the remote system	: transferred.txt
+
+
+`scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt` 
 - SCP: Secure copy
 - IP address of the remote system: 192.168.1.30
 - User on the remote system:	ubuntu

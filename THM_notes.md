@@ -117,9 +117,9 @@ Crontabs can be edited by using `crontab -e`, where you can select an editor (su
 
 TryHackMe rooms that are dedicated to Linux tools or utilities:
 
-- The find command - https://tryhackme.com/room/thefindcommand
-- Bash Scripting - https://tryhackme.com/room/bashscripting
-- Regular Expressions - https://tryhackme.com/room/catregex
+- [The find command](https://tryhackme.com/room/thefindcommand)
+- [Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [Regular Expressions](https://tryhackme.com/room/catregex)
 
 
 

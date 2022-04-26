@@ -1,3 +1,12 @@
+<details>
+<summary>Contents</summary>
+<br>
+- (Searching for vulnerabilities)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#searching-for-vulnerabilities]
+- (Downloading Files using webservers incl.)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#downloading-files]
+- (Processes in Linux)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#processes-in-linux]
+- (Maintaining Your System: Automation)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#maintaining-your-system-automation]
+</details>
+
 # Searching for vulnerabilities
 
 Often in hacking you'll come across software that might be open to exploitation. For example, Content Management Systems (such as Wordpress, FuelCMS, Ghost, etc) are frequently used to make setting up a website easier, and many of these are vulnerable to various attacks. So where would we look if we wanted to exploit specific software?

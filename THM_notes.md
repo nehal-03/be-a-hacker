@@ -1,11 +1,11 @@
 <details>
 <summary>Contents</summary>
 <br>
-(Searching for vulnerabilities)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#searching-for-vulnerabilities]
+[Searching for vulnerabilities](https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#searching-for-vulnerabilities)
 <br>
-(Downloading Files using webservers incl.)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#downloading-files]
-<br>(Processes in Linux)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#processes-in-linux]
-<br>(Maintaining Your System: Automation)[https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#maintaining-your-system-automation]
+[Downloading Files using webservers incl.](https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#downloading-files)
+<br>[Processes in Linux](https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#processes-in-linux)
+<br>[Maintaining Your System: Automation](https://github.com/nehal-03/be-a-hacker/blob/master/THM_notes.md#maintaining-your-system-automation)
 </details>
 
 # Searching for vulnerabilities
